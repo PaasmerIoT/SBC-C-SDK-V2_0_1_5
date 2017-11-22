@@ -148,7 +148,7 @@ $ sudo ./subscribe_publish_sample
 
 * The device would now be connected to the Paasmer IoT Platform and publishing sensor values are specified intervals.
 
-* User can update the feed details for any Device in the WeB UI followed by running the below command *
+*User can update the feed details for any Device in the WeB UI followed by running the below command`*
 ```
 sudo ./Update.sh
 ```
